@@ -1,0 +1,5 @@
+{
+  "name": "00 - APP Principal - Gerador de SEO para YouTube",
+  "description": "Uma ferramenta completa para otimizar títulos, descrições, palavras-chave e criar thumbnails de alto impacto para vídeos do YouTube, utilizando a API do Gemini para maximizar o alcance e o CTR.",
+  "requestFramePermissions": []
+}
